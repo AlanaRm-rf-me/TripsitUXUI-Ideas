@@ -98,7 +98,7 @@ export function TechConnectHome() {
       </main>
 
       {/* Settings Button */}
-      <button 
+      <button
         onClick={() => setShowSettings(!showSettings)}
         className="fixed bottom-4 right-4 bg-gray-800/50 backdrop-blur-md p-2 rounded-full transition-colors hover:bg-gray-700/50"
       >
